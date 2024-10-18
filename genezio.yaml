@@ -1,0 +1,10 @@
+frontend:
+    path: ./
+    publish: ""
+    scripts:
+        build: npm run build
+        deploy: npm install
+    subdomain: Layer7-Dstat
+name: Layer7-Dstat
+region: us-east-1
+yamlVersion: 2
